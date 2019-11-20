@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="Title">Title</string>
+    <string name="Price">Price</string>
+    <string name="Qty">Qty</string>
+    <string name="cart">Cart</string>
+    <string name="item">Item</string>
+    <string name="subtotal">subTotal</string>
+</resources>
